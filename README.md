@@ -1,0 +1,1 @@
+These are the basic AI algorithms that are used to solve some puzzle game, sudoku, tic-tac-toe. etc. Some of them are quite powerful in real world application. However all of these notebooks are just providing the way how to use them in simple task puzzle that make it easier to understand.
